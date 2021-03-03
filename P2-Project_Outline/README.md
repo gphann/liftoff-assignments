@@ -43,7 +43,7 @@ Workflow Timer:
 
 User login: 
 	FrontEnd: Shelby
-	BackEnd: Jack
+	BackEnd: Jack, Gloria
 
 Calendar/Timer Planner:
 	FrontEnd: Courtney, Gloria
