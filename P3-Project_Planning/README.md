@@ -9,6 +9,9 @@ For this assignment, you'll create some initial plans for your project.
 ### Wireframes
 
 Include at least 3 wireframes here, adding images or files to your repository as necessary. Format them as a bulleted/unordered list with links to the files.
+https://app.moqups.com/jtBZ3mSFqG/view/page/ad64222d5
+
+https://app.moqups.com/E274u4yz3O/view/page/ad64222d5
 
 ### Project Tracker
 
